@@ -1,0 +1,4 @@
+Console Application and EntityFramework Base
+base repository
+unit of work
+dependency injection
